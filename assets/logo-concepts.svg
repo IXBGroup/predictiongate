@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
+  <title id="title">PredictionGate logo concepts</title>
+  <desc id="desc">Three vector logo directions for PredictionGate.</desc>
+  <rect width="960" height="420" fill="#F7F5EF"/>
+  <text x="64" y="60" fill="#122032" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">PredictionGate logo directions</text>
+  <text x="64" y="92" fill="#5D6A79" font-family="Segoe UI, Arial, sans-serif" font-size="15">Vector concepts for a clear, analytical prediction-market publication.</text>
+
+  <g transform="translate(64 138)">
+    <rect width="240" height="196" rx="8" fill="#FFFFFF" stroke="#D9DEE3"/>
+    <rect x="28" y="28" width="64" height="64" rx="12" fill="#122032"/>
+    <path d="M46 76V44h28v32" fill="none" stroke="#F7F5EF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M46 62h11l8-10 12 16" fill="none" stroke="#14B8A6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="78" cy="68" r="4" fill="#C2A14D"/>
+    <text x="28" y="126" fill="#122032" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="800">Gate Signal</text>
+    <text x="28" y="152" fill="#5D6A79" font-family="Segoe UI, Arial, sans-serif" font-size="13">Strongest fit: market movement</text>
+    <text x="28" y="172" fill="#5D6A79" font-family="Segoe UI, Arial, sans-serif" font-size="13">passing through a publication gate.</text>
+  </g>
+
+  <g transform="translate(360 138)">
+    <rect width="240" height="196" rx="8" fill="#FFFFFF" stroke="#D9DEE3"/>
+    <rect x="28" y="28" width="64" height="64" rx="12" fill="#0F766E"/>
+    <path d="M44 72l16-28 16 28" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M49 64h22" stroke="#122032" stroke-width="4" stroke-linecap="round"/>
+    <text x="28" y="126" fill="#122032" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="800">Probability Delta</text>
+    <text x="28" y="152" fill="#5D6A79" font-family="Segoe UI, Arial, sans-serif" font-size="13">Sharper, more abstract, less tied</text>
+    <text x="28" y="172" fill="#5D6A79" font-family="Segoe UI, Arial, sans-serif" font-size="13">to the PredictionGate name.</text>
+  </g>
+
+  <g transform="translate(656 138)">
+    <rect width="240" height="196" rx="8" fill="#FFFFFF" stroke="#D9DEE3"/>
+    <rect x="28" y="28" width="64" height="64" rx="12" fill="#122032"/>
+    <path d="M42 42h36v14H42zM42 64h36v14H42z" fill="none" stroke="#F7F5EF" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M48 71l10-10 8 6 14-19" fill="none" stroke="#14B8A6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="28" y="126" fill="#122032" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="800">Market Ledger</text>
+    <text x="28" y="152" fill="#5D6A79" font-family="Segoe UI, Arial, sans-serif" font-size="13">Feels like financial media, though a</text>
+    <text x="28" y="172" fill="#5D6A79" font-family="Segoe UI, Arial, sans-serif" font-size="13">little less distinctive at favicon size.</text>
+  </g>
+</svg>

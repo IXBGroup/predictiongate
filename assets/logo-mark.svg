@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">PredictionGate logo mark</title>
+  <desc id="desc">A dark square mark with a gate shape and rising probability line.</desc>
+  <rect width="64" height="64" rx="12" fill="#122032"/>
+  <path d="M18 47V18h28v29" fill="none" stroke="#F7F5EF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M18 34h10l7-9 11 15" fill="none" stroke="#14B8A6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="46" cy="40" r="4" fill="#C2A14D"/>
+</svg>

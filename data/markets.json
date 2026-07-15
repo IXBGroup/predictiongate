@@ -1,0 +1,83 @@
+[
+  {
+    "id": "politics-2026-turnout",
+    "question": "Will national voter turnout exceed 62% in the next U.S. general election?",
+    "probability": 54,
+    "move": 7,
+    "platform": "Kalshi",
+    "category": "Politics",
+    "updated": "2026-07-13T14:20:00-05:00"
+  },
+  {
+    "id": "economics-rate-cut",
+    "question": "Will the Federal Reserve announce at least one rate cut before December?",
+    "probability": 61,
+    "move": -5,
+    "platform": "Polymarket",
+    "category": "Economics",
+    "updated": "2026-07-13T13:10:00-05:00"
+  },
+  {
+    "id": "technology-frontier-model",
+    "question": "Will a major AI lab release a new frontier model before October?",
+    "probability": 68,
+    "move": 11,
+    "platform": "Metaculus",
+    "category": "Technology",
+    "updated": "2026-07-13T12:45:00-05:00"
+  },
+  {
+    "id": "sports-finals-repeat",
+    "question": "Will last season's champion return to the league finals?",
+    "probability": 32,
+    "move": -9,
+    "platform": "Manifold",
+    "category": "Sports",
+    "updated": "2026-07-13T11:55:00-05:00"
+  },
+  {
+    "id": "world-summit-agreement",
+    "question": "Will the next global climate summit produce a binding finance agreement?",
+    "probability": 29,
+    "move": 4,
+    "platform": "Other regulated platforms",
+    "category": "World events",
+    "updated": "2026-07-13T10:30:00-05:00"
+  },
+  {
+    "id": "entertainment-awards",
+    "question": "Will an independent film win the top award at the next major ceremony?",
+    "probability": 47,
+    "move": 6,
+    "platform": "Polymarket",
+    "category": "Entertainment",
+    "updated": "2026-07-13T09:40:00-05:00"
+  },
+  {
+    "id": "economics-cpi",
+    "question": "Will the next CPI release come in below consensus expectations?",
+    "probability": 44,
+    "move": -3,
+    "platform": "Kalshi",
+    "category": "Economics",
+    "updated": "2026-07-12T16:25:00-05:00"
+  },
+  {
+    "id": "technology-chip-export",
+    "question": "Will new semiconductor export rules be announced this quarter?",
+    "probability": 57,
+    "move": 8,
+    "platform": "Metaculus",
+    "category": "Technology",
+    "updated": "2026-07-12T15:05:00-05:00"
+  },
+  {
+    "id": "politics-debate",
+    "question": "Will another nationally televised debate be scheduled before Labor Day?",
+    "probability": 38,
+    "move": -6,
+    "platform": "Manifold",
+    "category": "Politics",
+    "updated": "2026-07-12T12:15:00-05:00"
+  }
+]
